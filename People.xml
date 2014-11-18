@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CalleCerrada>
+	<Calle>
+		<Tipo>Desvío</Tipo>
+		<Calles>Bandera - Compañia</Calles>
+		<Comuna>SANTIAGO</Comuna>
+    <Descripcion>Bandera cerrado entre Compañía y Santo Domingo.
+debido a las obras de construcción de la Línea 3 del
+Metro de Santiago</Descripcion>
+    <Cordenada1>-33.438568</Cordenada1>
+  <Cordenada2>-70.652507</Cordenada2>
+	</Calle>
+  <Calle>
+    <Tipo>Desvío</Tipo>
+    <Calles> San Diego - Alonso Ovalle</Calles>
+    <Comuna>Santiago</Comuna>
+    <Descripcion>San Diego - Bandera Cerrado entre Alonso Ovalle
+y Moneda.debido a las obras de construcción de la 
+Línea 3 del Metro de Santiago. </Descripcion>
+    <Cordenada1>-33.438568</Cordenada1>
+  <Cordenada2>-70.652507</Cordenada2>
+	</Calle>
+</CalleCerrada>
